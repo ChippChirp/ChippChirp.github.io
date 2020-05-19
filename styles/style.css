@@ -125,3 +125,43 @@ h1 {
     margin-right: auto;
     width: 45%;
 }
+
+nav {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+ul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+ul li a {
+    color: #0053ec;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+}
+
+ul li a:hover {
+    color: #ffb568;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+}
+
+ul li a:active {
+    color: #fa82a1;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+}
